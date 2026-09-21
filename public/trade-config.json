@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "M-pesa",
+  "paymentMethod": "Mtn",
   "tradeId": "Order ID 1006184",
-  "amount": "0.74 USD",
+  "amount": "4 USD",
   "status": "waiting"
 }
