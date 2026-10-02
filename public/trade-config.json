@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Mtn",
-  "tradeId": "Order ID 1006184",
-  "amount": "4 USD",
+  "paymentMethod": "Banco general",
+  "tradeId": "Order ID 1065698",
+  "amount": "19.90 USD",
   "status": "waiting"
 }
